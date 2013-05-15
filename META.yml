@@ -22,11 +22,15 @@ no_index:
     - eg
     - examples
 requires:
+  Carp: 0
+  Exporter::Auto: 0
+  PPI: 0
+  Pod::Simple::Search: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/swuecho/meta/issues
   homepage: https://github.com/swuecho/meta
   repository: https://github.com/swuecho/meta.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Hao <echowuhao@gmail.com>'

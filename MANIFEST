@@ -8,7 +8,6 @@ README
 cpanfile
 dist.ini
 lib/Acme/SWUECHO/Meta.pm
-lib/Acme/SWUECHO/Meta.pm~
 perlcriticrc
 t/basic.t
 t/release-pod-syntax.t
